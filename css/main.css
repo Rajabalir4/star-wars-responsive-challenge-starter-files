@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+  color: #252525;
+}
+main {
+  padding-top: 100px;
+}
+
+nav{
+  position: fixed;
+  height: 100px;
+  width: 100%;
+  background-color: #eebb44;
+  padding-left: 14%;
+
+}
+h1{
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+main .row {
+  margin-bottom: 25px;
+}
+
+.box {
+  border: 1px solid gray;
+  margin-bottom: 30px;
+}
+.description{
+  padding: 20px;
+
+}
+
+
